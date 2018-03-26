@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CF9D8579-16B1-4030-B4E2-02271D447E85}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/PhotosController.cs">
+    <Files>
+      <File FileName="Controllers/PhotosController.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TCN PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
